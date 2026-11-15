@@ -1,0 +1,39 @@
+# Aditya Singh Bakawat
+
+**C++ and Python developer · Competitive programming · AI agents**
+
+I'm an Electronics and Communication Engineering undergraduate at **LNMIIT, Jaipur (Class of 2028)**. I work on algorithms, backend systems, and applications built with AI agents.
+
+My team won **1st place nationally at Fetch-A-Thon 3.0 (2026)** with Arth.ai. My contribution focused on multi-agent orchestration and protocol integration using Fetch.ai uAgents, Agentverse, and ASI:One.
+
+## Selected projects
+
+| Project | Focus |
+| --- | --- |
+| [Arth.ai](https://github.com/CyberKun/arth.ai) | Team-built conversational accounting for Indian small shops. Python, Fetch.ai agents, and PostgreSQL. |
+| [CommLab Copilot](https://github.com/CyberKun/CommLab-Copilot) | Reproducible communication-system experiments with a Python backend and React interface. |
+| [Upsolve](https://github.com/CyberKun/upsolve) | A Codeforces practice workspace for tracking upsolving, notes, and scheduled reviews. |
+| [Competitive programming](https://github.com/CyberKun/cf-solutions) | C++ solutions organized by platform and problem difficulty. |
+
+Arth is a collaborative project; the [original team repository](https://github.com/suppiyush/arth.ai) and its contributor history preserve team credit.
+
+## Open source
+
+- [Cheerio PR #5745](https://github.com/cheeriojs/cheerio/pull/5745): preserve document nodes when rendering HTML. See the PR for its current review status and discussion.
+
+## Background
+
+- **LNMIIT:** B.Tech in Electronics and Communication Engineering, expected May 2028.
+- **Cybros, LNMIIT Computer Club:** problem setter, tester, and instructor; algorithmic problem authoring, peer validation, and competitive programming mentorship.
+- **Achievements:** Fetch-A-Thon 3.0 national winner (2026); Flipkart GRiD 8.0 national semifinalist.
+
+## Tools I work with
+
+**Primary languages:** C++ and Python  
+**Also used:** Java, TypeScript, SQL, and Bash  
+**Backend and infrastructure:** PostgreSQL, Docker, gRPC, Kafka, Spring Boot, and Linux  
+**Agent development:** Fetch.ai uAgents, Agentverse, and ASI:One
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/aditya-singh-bakawat-5015a9323/) · [Email](mailto:adityasabakawat@gmail.com) · [Codeforces](https://codeforces.com/profile/Bruten) · [LeetCode](https://leetcode.com/u/Onee_Chan/) · [CodeChef](https://www.codechef.com/users/main_noble_29)
