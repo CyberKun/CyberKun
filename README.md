@@ -24,7 +24,7 @@ Arth is a collaborative project; the [original team repository](https://github.c
 ## Background
 
 - **LNMIIT:** B.Tech in Electronics and Communication Engineering, expected May 2028.
-- **Cybros, LNMIIT Computer Club:** problem setter, tester, and instructor; algorithmic problem authoring, peer validation, and competitive programming mentorship.
+- **Cybros, LNMIIT Coding Club:** problem setter, tester, and instructor; algorithmic problem authoring, peer validation, and competitive programming mentorship.
 - **Achievements:** Fetch-A-Thon 3.0 national winner (2026); Flipkart GRiD 8.0 national semifinalist.
 
 ## Tools I work with
