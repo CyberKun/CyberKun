@@ -14,7 +14,7 @@ My team won **1st place nationally at Fetch-A-Thon 3.0 (2026)** with Arth.ai. My
 | [Fraud Ring Detection](https://github.com/CyberKun/fraud-ring-detection-engine) | Streaming graph-based fraud detection with dynamic connectivity, live alerts, and historical investigation. |
 | [GaitLens](https://github.com/CyberKun/gaitlens-backend) | Gait-analysis research backend with sensor-model and video-processing components. A research demo, not a medical diagnostic tool. |
 | [CommLab Copilot](https://github.com/CyberKun/CommLab-Copilot) | Reproducible BPSK communication experiments with reviewed configurations, background execution, and a Python/React workspace. |
-| [Arena Practice](https://arena-practice-ruby.vercel.app/contests) · [Private source](https://github.com/CyberKun/arena-practice) | Competitive programming workspace for contest discovery, problem search, practice queues, notes, and scheduled reviews. |
+| [Arena Practice](https://arena-practice-ruby.vercel.app/contests) | Competitive programming workspace for contest discovery, problem search, practice queues, notes, and scheduled reviews. |
 
 Arth is a collaborative project; the [original team repository](https://github.com/suppiyush/arth.ai) and its contributor history preserve team credit.
 
