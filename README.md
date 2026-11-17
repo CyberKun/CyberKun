@@ -20,7 +20,19 @@ Arth is a collaborative project; the [original team repository](https://github.c
 
 ## Open source
 
-- [Cheerio PR #5745](https://github.com/cheeriojs/cheerio/pull/5745): preserve document nodes when rendering HTML. See the PR for its current review status and discussion.
+I contribute bug fixes, regression tests, and documentation to developer tools and Python libraries.
+
+**Selected merged contributions**
+
+| Project | Contribution | Merged PRs |
+| --- | --- | --- |
+| **agentest** | Added test-class selection to the CLI, documented a strict GitHub Actions gate, and enabled listing repository extensions. | [#106](https://github.com/srpadmanabhuni/agentest/pull/106), [#107](https://github.com/srpadmanabhuni/agentest/pull/107), [#112](https://github.com/srpadmanabhuni/agentest/pull/112) |
+| **wheelgap** | Added per-target dependency hints to SARIF reports while preserving existing code-scanning alert identities. | [#469](https://github.com/wheelgap/wheelgap/pull/469) |
+| **cv-benchkit** | Added image-dimension validation for YOLO-to-COCO conversion, with regression tests for invalid inputs. | [#20](https://github.com/udayraj1238/cv-benchkit/pull/20) |
+
+**Under review:** [Cheerio #5745](https://github.com/cheeriojs/cheerio/pull/5745) preserves document nodes during HTML rendering; [Goldener #427](https://github.com/goldener-data/goldener/pull/427) exposes `GoldVectorizer` through the public package API.
+
+[Browse all my pull requests](https://github.com/pulls?q=is%3Apr+author%3ACyberKun)
 
 ## Background
 
